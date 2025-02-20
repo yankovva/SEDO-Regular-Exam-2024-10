@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Services.Houses.Models;
+﻿using System.Collections.Generic;
+using HouseRentingSystem.Services.Houses.Models;
 using System.ComponentModel.DataAnnotations;
 using System.Xml.Linq;
 

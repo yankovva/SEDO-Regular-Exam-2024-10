@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Services.Data;
+﻿using System;
+using HouseRentingSystem.Services.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace HouseRentingSystem.Tests.Mocks

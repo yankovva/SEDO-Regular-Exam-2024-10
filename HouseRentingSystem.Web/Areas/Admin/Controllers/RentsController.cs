@@ -1,4 +1,6 @@
-﻿using HouseRentingSystem.Services.Rents;
+﻿using System;
+using System.Collections.Generic;
+using HouseRentingSystem.Services.Rents;
 using HouseRentingSystem.Services.Rents.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Memory;

@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Services.Statistics.Models;
+﻿using System.Linq;
+using HouseRentingSystem.Services.Statistics.Models;
 using HouseRentingSystem.Services.Statistics;
 
 namespace HouseRentingSystem.Tests.UnitTests

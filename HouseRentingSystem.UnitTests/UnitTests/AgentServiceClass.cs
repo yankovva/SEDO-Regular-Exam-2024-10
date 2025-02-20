@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Services.Agents;
+﻿using System.Linq;
+using HouseRentingSystem.Services.Agents;
 
 namespace HouseRentingSystem.Tests.UnitTests
 {

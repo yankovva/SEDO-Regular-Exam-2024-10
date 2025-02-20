@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Services.Houses.Models;
+﻿using System.Linq;
+using HouseRentingSystem.Services.Houses.Models;
 using System.Text.RegularExpressions;
 
 namespace HouseRentingSystem.Web.Infrastructure
