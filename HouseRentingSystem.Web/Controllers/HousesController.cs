@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Web.Models.Houses;
+﻿using System.Collections.Generic;
+using HouseRentingSystem.Web.Models.Houses;
 using HouseRentingSystem.Web.Infrastructure;
 using HouseRentingSystem.Services.Agents;
 using HouseRentingSystem.Services.Houses;

@@ -1,4 +1,5 @@
-﻿using HouseRentingSystem.Services.Data.Entities;
+﻿using System.Linq;
+using HouseRentingSystem.Services.Data.Entities;
 using HouseRentingSystem.Services.Houses;
 using HouseRentingSystem.Services.Users;
 
