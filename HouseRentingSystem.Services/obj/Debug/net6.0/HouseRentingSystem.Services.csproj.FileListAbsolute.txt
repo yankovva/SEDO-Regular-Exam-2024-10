@@ -1,0 +1,13 @@
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.deps.json
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.runtimeconfig.json
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.dll
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/bin/Debug/net6.0/HouseRentingSystem.Services.pdb
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.AssemblyReference.cache
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfoInputs.cache
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.AssemblyInfo.cs
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.sourcelink.json
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.dll
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.pdb
+/Users/magdalenaqnkova/SEDO-Regular-Exam-2024-10/HouseRentingSystem.Services/obj/Debug/net6.0/HouseRentingSystem.Services.genruntimeconfig.cache
